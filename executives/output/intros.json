@@ -1,0 +1,33 @@
+{
+  "generated_at": "2026-05-25T02:00:00Z",
+  "model": "ovi-image-to-video",
+  "cost_per_video": 0.20,
+  "total_cost": 1.00,
+  "executives": [
+    {
+      "name": "Dr. Anya Sharma",
+      "title": "Chief Technology Officer",
+      "video_url": "https://cdn.muapi.ai/outputs/f181fbfd9aa9444095bce797b22acd8d.mp4"
+    },
+    {
+      "name": "Isabella Rodriguez",
+      "title": "Chief Marketing Officer",
+      "video_url": "https://cdn.muapi.ai/outputs/98173aa1747d4c4d90ec3805e98d3078.mp4"
+    },
+    {
+      "name": "Omar Al-Farsi",
+      "title": "Chief Financial Officer",
+      "video_url": "https://cdn.muapi.ai/outputs/ae0fa825c3794bb0a2ced5f7a6a0c950.mp4"
+    },
+    {
+      "name": "Klaus Richter",
+      "title": "Chief Operations Officer",
+      "video_url": "https://cdn.muapi.ai/outputs/6d6fc1e97ea64a11a626e17ea85fdce4.mp4"
+    },
+    {
+      "name": "Akari Tanaka",
+      "title": "Chief People Officer",
+      "video_url": "https://cdn.muapi.ai/outputs/93c8602d3eee4f7abc603568efff547f.mp4"
+    }
+  ]
+}
