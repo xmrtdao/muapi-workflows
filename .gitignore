@@ -37,3 +37,7 @@ results/
 # But keep executive persona images (used for video generation)
 !executives/*.png
 !executives/*.jpg
+
+# But keep executive outputs (generated results)
+!executives/output/*.json
+!executives/output/*.md
