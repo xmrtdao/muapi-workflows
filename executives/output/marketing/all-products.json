@@ -1,0 +1,36 @@
+{
+  "generated_at": "2026-05-25T03:00:00Z",
+  "model": "nano-banana-pro",
+  "cost_per_image": 0.12,
+  "total_cost": 1.20,
+  "products": [
+    {
+      "name": "ZeroClaw",
+      "tagline": "Zero-Knowledge Governance & Encrypted Communications",
+      "assets": [
+        {"asset": 1, "prompt": "ZK-powered DAO governance platform interface", "url": "https://cdn.muapi.ai/outputs/dfcdf3b5f0a84cad91f861d6af246ddd.jpg"},
+        {"asset": 2, "prompt": "ZeroClaw encrypted chat application mockup", "url": "https://cdn.muapi.ai/outputs/af2a15db8fc24c7cbf6a49e1ce01be7f.jpg"},
+        {"asset": 3, "prompt": "ZeroClaw logo concept, claw mark with shield", "url": "https://cdn.muapi.ai/outputs/dded682921214499bfdbe2b98c26bd80.jpg"},
+        {"asset": 4, "prompt": "ZeroClaw governance dashboard UI", "url": "https://cdn.muapi.ai/outputs/a5b2f059e3104ef3a4768ec8573f36bf.jpg"}
+      ]
+    },
+    {
+      "name": "Suite AI",
+      "tagline": "Autonomous AI Agent Orchestration Platform",
+      "assets": [
+        {"asset": 1, "prompt": "Suite AI multi-agent orchestration dashboard", "url": "https://cdn.muapi.ai/outputs/0d3ead5e319a4ab295b2eb42663e19f7.jpg"},
+        {"asset": 2, "prompt": "Suite AI agent workflow visualization", "url": "https://cdn.muapi.ai/outputs/ba084e6e215846bf9d1defbad21a28c2.jpg"},
+        {"asset": 3, "prompt": "Suite AI logo, connected nodes forming S", "url": "https://cdn.muapi.ai/outputs/ef1155578b6d4550a26729163c319e02.jpg"},
+        {"asset": 4, "prompt": "Suite AI analytics dashboard", "url": "https://cdn.muapi.ai/outputs/76d19d865e9b48b785a789c912a3df7e.jpg"}
+      ]
+    },
+    {
+      "name": "MobileMonero",
+      "tagline": "Mobile-First Monero Mining",
+      "assets": [
+        {"asset": 1, "prompt": "MobileMonero app interface on smartphone", "url": "https://cdn.muapi.ai/outputs/78358a2901704bc3b9f9e89b9ccbe838.jpg"},
+        {"asset": 2, "prompt": "MobileMonero mining dashboard and rewards", "url": "https://cdn.muapi.ai/outputs/d06ea7dfafb14848bcafe7ecb459d93b.jpg"}
+      ]
+    }
+  ]
+}
