@@ -33,3 +33,7 @@ results/
 *.mp4
 *.png
 *.jpg
+
+# But keep executive persona images (used for video generation)
+!executives/*.png
+!executives/*.jpg
