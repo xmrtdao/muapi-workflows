@@ -38,6 +38,9 @@ results/
 !executives/*.png
 !executives/*.jpg
 
+# But keep 31 Harbor Road property photos (used for email campaign)
+!assets/31harbor/*.jpg
+
 # But keep executive outputs (generated results)
 !executives/output/*.json
 !executives/output/*.md
